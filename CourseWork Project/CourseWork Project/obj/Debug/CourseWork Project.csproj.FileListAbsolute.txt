@@ -112,3 +112,17 @@ G:\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\o
 \\crgs-server-ys1\s16124\CourseWork Project\CourseWork Project\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
 C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
 C:\Users\Harrison\Desktop\Computer Science Course Work\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe.config
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\bin\Debug\CourseWork Project.pdb
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.g.cs
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\App.g.cs
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.cache
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project_MarkupCompile.lref
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\MainWindow.baml
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.g.resources
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork_Project.Properties.Resources.resources
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.GenerateResource.Cache
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.exe
+C:\Users\Harrison\Documents\GitHub\NEA\CourseWork Project\CourseWork Project\obj\Debug\CourseWork Project.pdb

@@ -23,8 +23,8 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="50"/>
             <RowDefinition Height="241"/>
-            <RowDefinition Height="44*"/>
-            <RowDefinition Height="35*"/>
+            <RowDefinition Height="44"/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
         <Canvas Name="testBox" Grid.Row="2" Grid.Column="3"
                  MouseLeftButtonDown="testBox_MouseLeftButtonDown"  Height="385" VerticalAlignment="Bottom"  MouseMove="testBox_MouseMove" MouseLeave="testBox_MouseLeave" MouseUp="testBox_MouseUp" Grid.RowSpan="4" MouseDown="testBox_MouseDown" Width="921"/>
@@ -59,7 +59,7 @@
 
 
         <ToggleButton Name="grabButton" 
-                          Click="grabButton_Click" Grid.Row="4" Grid.Column="1"/>
+                          Click="grabButton_Click" Grid.Row="4" Grid.Column="1" Content="Grab"/>
         <ToggleButton Name="zoomInButton" 
                           Click="zoomInButton_Click" Grid.Row="3" Grid.Column="1"/>
         <ToggleButton Name="zoomOutButton" 
